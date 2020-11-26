@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  RAPA-Deploy TEST Version 1
+	Hello world!  RAPA-Deploy TEST Version 1d
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
